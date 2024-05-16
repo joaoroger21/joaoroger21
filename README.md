@@ -1,7 +1,7 @@
 ### Boas vindas ao meu perfil 💙 🚙
 
-
-
+-Meu nome é João roger 
+-Estou estudando na Alura
 **joaoroger21/joaoroger21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
